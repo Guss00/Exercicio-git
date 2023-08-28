@@ -1,1 +1,11 @@
+# Essse é um comentário
 node_modules/
+*.png
+!bg.png
+
+assents/*.jpg
+*.jpg
+
+# !m1.jpg
+# !m2.jpg
+# !m3.jpg
