@@ -13,14 +13,6 @@ function(e){
 }
 ```
 
-+ opção 1
-+ opção 2
-+ opção 3
-
-- opção 4
-- opção 5
-- opção 6
-
 * opção 7
 * opção 8
 * opção 9
